@@ -76,7 +76,7 @@ $(document).ready(function() {
 
                         var orderJSON = {
                             "external_reference": external_reference,
-                            "notification_url": "",
+                            "notification_url": "https://johnnycanelones.github.io/mercado-pago-qr/api/notifications",
                             "items": items
                         };
 
