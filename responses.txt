@@ -1,0 +1,31 @@
+// q1
+{
+    "id": "32252161",
+    "name": "Sucursal 100896844",
+    "date_creation": "2020-06-29T01:23:09.766Z",
+    "location": {
+        "address_line": "Sinclair 2929, Palermo, Capital Federal, Argentina",
+        "reference": "Piso 1",
+        "latitude": -34.5756022,
+        "longitude": -58.4249225
+    },
+    "external_id": "suc100896844001"
+} 
+
+// q2
+
+{
+    "id": 10261890,
+    "qr": { "image": "https://www.mercadopago.com/instore/merchant/qr/10261890/e4eb8a29da8e492d862275268b0dad5ece23887e9ff843f2b578f8aa3e27f575.png", "template_document": "https://www.mercadopago.com/instore/merchant/qr/10261890/template_e4eb8a29da8e492d862275268b0dad5ece23887e9ff843f2b578f8aa3e27f575.pdf", "template_image": "https://www.mercadopago.com/instore/merchant/qr/10261890/template_e4eb8a29da8e492d862275268b0dad5ece23887e9ff843f2b578f8aa3e27f575.png" },
+    "status": "active",
+    "date_created": "2020-06-28T21:51:28.000-04:00",
+    "date_last_updated": "2020-06-28T21:51:28.000-04:00",
+    "uuid": "e4eb8a29da8e492d862275268b0dad5ece23887e9ff843f2b578f8aa3e27f575",
+    "user_id": 586728271,
+    "name": "POS 100896844",
+    "fixed_amount": true,
+    "category": 621102,
+    "store_id": "32252161",
+    "external_store_id": "suc100896844001",
+    "external_id": "pos100896844002"
+}
